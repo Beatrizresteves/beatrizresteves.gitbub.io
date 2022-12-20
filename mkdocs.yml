@@ -1,0 +1,7 @@
+site_name: Currículo - Beatriz Ramalho Esteves
+
+nav:
+    - Início: 'index.md'
+
+extra_css:
+  - style.css
