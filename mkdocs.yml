@@ -1,7 +1,8 @@
 site_name: Currículo - Beatriz Ramalho Esteves
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
 
-nav:
-    - Início: 'index.md'
 
-extra_css:
-  - style.css
